@@ -74,9 +74,9 @@ const controlAddBookmark = function () {
   recipeView.update(model.state.recipe);
 };
 
-const newFeature  = function()[
+const newFeature = function () {
   console.log('Billy Jhn');
-]
+};
 
 const init = function () {
   recipeView.addHandlerRender(controlRecipes);
