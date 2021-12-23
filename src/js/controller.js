@@ -75,6 +75,7 @@ const controlAddBookmark = function () {
 };
 
 const newFeature = function () {
+  //Github testing with multiple branches(new feature) and merging with master branch
   console.log('Billy Jhn');
 };
 
